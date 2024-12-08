@@ -19,25 +19,20 @@ const About = () => {
                 <div className="about__data">
                     {/* <Info /> */}
 
-                    <p className="about__description">{isExpanded ? `I’m Sai Kumar Arava, a technologist, software architect, and machine 
-                    learning manager with over a decade of experience in creating transformative AI/ML solutions that drive real value for 
-                    businesses and their customers. Currently, I lead a talented team of ML scientists, software engineers, and data engineers 
-                    at Adobe Systems, where we build and deploy AI services like Customer AI and Attribution AI, supporting hundreds of 
-                    enterprise clients. Our work has empowered brands like Nvidia, Disney, and Home Depot to make data-driven decisions, 
-                    generating billions of insights and substantial revenue impact. 
-                    In my role at Adobe, I focus on developing generative AI models that improve workflows through reinforcement learning 
-                    and deploying retrieval-augmented generation (RAG) applications to enable AI-first user experiences. I work across teams
-                     to ensure that our products meet enterprise needs and drive measurable business results, from concept to execution.
-                    Previously at PayPal, I specialized in advanced NLP techniques, where I applied sentiment analysis and text classification 
-                    to enhance customer engagement. My journey in AI also includes co-founding Scalend.com, where I led a team of data scientists 
-                    delivering NLP-driven solutions to clients like Bosch and Reliance, integrating our technology with platforms like Magento and 
-                    Shopify to enhance e-commerce experiences.
-                    I hold a Graduate Certificate in Artificial Intelligence from Stanford University and a Master’s in Mathematics and Scientific 
-                    Computing from IIT Kanpur. As an active speaker and participant in AI workshops, I’m dedicated to sharing knowledge and driving 
-                    innovation, which has also led me to win multiple Generative AI hackathons. My approach is hands-on and action-oriented, ensuring 
-                    that each innovation isn’t just conceptual but effectively implemented.
-
-                    Specialties: Machine Learning, MLOps, Generative AI, NLP, Big Data, Distributed Computing, Product Development, Customer Engagement` : `I’m Sai Kumar Arava, a technologist, software architect, and machine learning manager with over a decade of experience in creating transformative AI/ML solutions that drive real value for businesses and their customers. Currently, I lead a talented team of ML scientists, software engineers, and data engineers at Adobe Systems, where we build and deploy AI services like Customer AI and Attribution AI, supporting hundreds of enterprise clients. Our work has empowered brands like Nvidia, Disney, and Home Depot to make data-driven decisions, generating billions of insights and substantial revenue impact....`}
+                    <p className="about__description">{isExpanded ? `Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                    Dolorum distinctio delectus dolorem cupiditate sunt exercitationem voluptatem debitis voluptas cum provident 
+                    eligendi labore fugiat numquam quo, fugit, natus doloremque corrupti illo sit voluptatum! Quidem, labore error.
+                     Quam vero dolor, animi quae perspiciatis, nulla, numquam dolorum voluptates illum perferendis nemo placeat 
+                     laudantium labore dolorem. Amet earum, inventore rerum dolorem eius quas modi natus. Pariatur, maxime esse 
+                     quo ducimus laborum harum quam quasi, est nihil ipsa corrupti eum ab, laudantium temporibus. Tempore 
+                     perspiciatis amet et harum cum, recusandae officiis at voluptate. Id, dolorem deserunt quo repellat beatae 
+                     totam aut dolore sunt eaque dolor iusto consequatur odio ipsam deleniti nemo aliquam porro distinctio 
+                     laboriosam molestiae architecto repudiandae vel eos nobis incidunt. Pariatur velit molestiae, cum 
+                     quibusdam non sunt iusto vel animi quod.` : `Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                    Dolorum distinctio delectus dolorem cupiditate sunt exercitationem voluptatem debitis voluptas cum provident 
+                    eligendi labore fugiat numquam quo, fugit, natus doloremque corrupti illo sit voluptatum! Quidem, labore error.
+                     Quam vero dolor, animi quae perspiciatis, nulla, numquam dolorum voluptates illum perferendis nemo placeat 
+                     laudantium labore dolorem. Amet earum, inventore rerum dolorem eius quas modi natus. `}
                     <button
                         onClick={toggleReadMore}
                         style={{

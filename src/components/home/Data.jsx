@@ -3,7 +3,7 @@ import React from 'react'
 const Data = () => {
   return (
     <div className="home__data">
-        <h1 className="home__title">Sai Kumar
+        <h1 className="home__title">Sharanya Srinivas
         <svg
                   width="36"
                   height="36"
@@ -55,7 +55,7 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className="home__subtitle">Hello!</h3>
-        <p className="home__description">I'm Sai Arava working on ML at Adobe, interested in AGI, Investing, Immigration, Startups  </p>
+        <p className="home__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis maxime veritatis vel quam quasi, amet velit. </p>
         <a href="#contact" className="button button--flex">Say Hi!
         <svg
                   className="button__icon"

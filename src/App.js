@@ -18,9 +18,9 @@ function App() {
       <Router>
         <Switch>
           <Route path='/' element={<Main />} />
-          <Route path='/publicspeakings' element={<PublicS />} />
+          {/* <Route path='/publicspeakings' element={<PublicS />} />
           <Route path='/blog' element={<Blogs />} />
-          <Route path='/postabc' element={<Post />} />
+          <Route path='/postabc' element={<Post />} /> */}
           <Route path='/login' element={<Login setIsAuth={setIsAuth}/>}/>
           <Route path='/write' element={isAuth ? <Write setIsAuth={setIsAuth} /> : <Navigate to="/login" />}/>
         </Switch>

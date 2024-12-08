@@ -40,11 +40,11 @@ const Qualification = () => {
                     }>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Mathematics and Statistics</h3>
-                                <span className="qualification__subtitle">IIT Kanpur - Dual degree</span>
+                                <h3 className="qualification__title">Electronics and Communications Engineering</h3>
+                                <span className="qualification__subtitle">Andhra University - BTech</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2007-2012
+                                    </i> 2010-2014
                                 </div>
                             </div>
                             <div>
@@ -54,18 +54,31 @@ const Qualification = () => {
                         </div>
                         <div className="qualification__data">
                             <div></div>
-
                             <div>
                                 <span className="qualification__rounder"></span>
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Artificial Intelligence</h3>
-                                <span className="qualification__subtitle">Stanford University - Graduate certificate</span>
+                                <h3 className="qualification__title">Electrical Engineering</h3>
+                                <span className="qualification__subtitle">Arizona State university - Master of science</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2017-2021
+                                    </i> 2014-2016
                                 </div>
+                            </div>
+                        </div>
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">Electrical Engineering</h3>
+                                <span className="qualification__subtitle">Arizona State university - Doctor of philosophy</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt">
+                                    </i> 2015-2020
+                                </div>
+                            </div>
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
                             </div>
                         </div>
 
@@ -75,11 +88,11 @@ const Qualification = () => {
                     }>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Summer research fellowship</h3>
-                                <span className="qualification__subtitle">IISc - Bangalore</span>
+                                <h3 className="qualification__title">Summer Intern</h3>
+                                <span className="qualification__subtitle">Bharat Sanchar Nigam Limited</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2010
+                                    </i> 2012
                                 </div>
                             </div>
                             <div>
@@ -95,21 +108,21 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Software Engineer</h3>
-                                <span className="qualification__subtitle">Paypal - India</span>
+                                <h3 className="qualification__title">Summer Intern</h3>
+                                <span className="qualification__subtitle">Indian Institute of Technology, Madras</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2012-2013
+                                    </i> 2013
                                 </div>
                             </div>
                         </div>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Advisor</h3>
-                                <span className="qualification__subtitle">Scalend - Bangalore</span>
+                                <h3 className="qualification__title">Research Aide</h3>
+                                <span className="qualification__subtitle">SENSIP, Arizona State University</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2014-2019
+                                    </i> 2014-2015
                                 </div>
                             </div>
                             <div>
@@ -125,21 +138,21 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Mentor</h3>
-                                <span className="qualification__subtitle">Springboard - Part time</span>
+                                <h3 className="qualification__title">Research Assistant</h3>
+                                <span className="qualification__subtitle">BLISS, Arizona State University</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2019-2021
+                                    </i> 2015-2020
                                 </div>
                             </div>
                         </div>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">ML manager</h3>
-                                <span className="qualification__subtitle">Adobe</span>
+                                <h3 className="qualification__title">Postdoctoral Researcher</h3>
+                                <span className="qualification__subtitle">WISCA, Arizona State University</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i> 2013-current
+                                    </i> 2020-current
                                 </div>
                             </div>
                             <div>
